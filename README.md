@@ -1,0 +1,1 @@
+# Altered-Mineral-Segmentation-Using-CNN
